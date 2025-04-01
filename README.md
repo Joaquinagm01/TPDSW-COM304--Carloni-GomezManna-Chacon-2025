@@ -6,7 +6,7 @@
 * 47791 - Gomez Manna, Joaquina Esperanza
 * 51095 - Carloni, Nahuel Iván
 * 50980 - Chacón, Agustina Celeste
-* legajo, nombre
+* legajo, Joaquín
 
 ## Tema
 ### Descripción
