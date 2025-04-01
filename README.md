@@ -1,4 +1,4 @@
-# TPDSW-COM304--Carloni-GomezManna-Chacon-2025
+# TPDSW-COM304--Carloni-GomezManna-Chacon-Mierez-2025
 # Propuesta TP DSW
 
 ## Grupo
@@ -6,7 +6,7 @@
 * 47791 - Gomez Manna, Joaquina Esperanza
 * 51095 - Carloni, Nahuel Iván
 * 50980 - Chacón, Agustina Celeste
-* legajo, nombre
+* 49938 - Joaquín Mierez
 
 ## Tema
 ### Descripción
